@@ -50,6 +50,7 @@ let parsedInt = Int("10")
 let newParsedInt = Int("Cat")
 
 // mod 1
+// mod 2
 
 /*:
  Here, `newParsedInt` is implicitly created as an Optional, for the same reasons as above.
