@@ -49,8 +49,7 @@ let parsedInt = Int("10")
 // TODO: Write solution here
 let newParsedInt = Int("Cat")
 
-// mod 1
-// mod 2
+// F I N
 
 /*:
  Here, `newParsedInt` is implicitly created as an Optional, for the same reasons as above.
