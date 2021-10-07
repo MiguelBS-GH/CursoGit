@@ -37,6 +37,7 @@ players.insert("Charles", at: 2)
 players += ["Gloria", "Hermione"]
 
 // mod
+// Find
 
 /*:
  ## Challenge 3
